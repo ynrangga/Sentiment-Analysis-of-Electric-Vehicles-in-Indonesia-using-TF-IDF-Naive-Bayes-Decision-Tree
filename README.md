@@ -60,6 +60,7 @@ The study aims to provide insight into public opinion trends and assess model pe
 | ------------- | -------- | --------- | ------ | -------- |
 | Naive Bayes   | 82%      | 85%       | 82%    | 81%      |
 | Decision Tree | 99%      | 99%       | 99%    | 99%      |
+
 📌 Decision Tree achieved near-perfect classification performance, significantly outperforming Naive Bayes across all evaluation metrics.
 
 ## 🔍 Key Quantitative Insights (Corrected & Strengthened)
