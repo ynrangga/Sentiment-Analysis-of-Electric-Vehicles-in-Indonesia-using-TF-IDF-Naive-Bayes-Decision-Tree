@@ -74,7 +74,14 @@ The study aims to provide insight into public opinion trends and assess model pe
   - Decision Tree was able to capture non-linear relationships between terms and sentiment classes more effectively.
 
  ## 📊 Visualizations
+ ### 1. Labeling Positive & Negative
 ![Labeling Positive & Negative](visuals/labeling_positive_negative.png)
+
+### 2. Sentiment After SMOTE and Undersampling
 ![Sentiment After SMOTE and Undersampling](visuals/sentiment_after_SMOTE_and_undersampling.png)
+
+### 3. Confusion Matrix Naive Bayes
 ![Confusion Matrix Naive Bayes](visuals/confusion_matrix-naive_bayes.png)
+
+### 4. Decision Tree (max_depth=3)
 ![Decision Tree (max_depth=3)](visuals/decision_tree_(max_depth=3).png)
